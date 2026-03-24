@@ -1,0 +1,109 @@
+{
+  "schoolId": "SCH001",
+  "name": "Saraswati Vidya Mandir",
+  "shortName": "SVM",
+  "type": "K-12",
+  "board": "CBSE",
+  "established": 1994,
+  "udiseCode": "09040112345",
+  "affiliationNumber": "2130045",
+  "logo": "assets/mock/school_logo.png",
+  "tagline": "ज्ञान ही शक्ति है — Knowledge is Power",
+  "address": {
+    "line1": "Plot No. 45, Sector 12",
+    "line2": "Near Hanuman Temple",
+    "city": "Lucknow",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "pincode": "226012",
+    "country": "India"
+  },
+  "contact": {
+    "phone": "+91-522-2345678",
+    "mobile": "+91-9876543210",
+    "email": "info@svmlucknow.edu.in",
+    "website": "www.svmlucknow.edu.in",
+    "whatsapp": "+91-9876543210"
+  },
+  "principal": {
+    "name": "Dr. Anjali Srivastava",
+    "phone": "+91-9876500001",
+    "email": "principal@svmlucknow.edu.in",
+    "photoUrl": "assets/mock/principal.png"
+  },
+  "academicYear": {
+    "current": "2024-25",
+    "startMonth": 4,
+    "endMonth": 3,
+    "startDate": "2024-04-01",
+    "endDate": "2025-03-31"
+  },
+  "workingDays": {
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": true,
+    "saturday": true,
+    "sunday": false
+  },
+  "timings": {
+    "schoolStart": "07:30",
+    "schoolEnd": "13:30",
+    "gateCloseTime": "07:45",
+    "lunchBreakStart": "10:30",
+    "lunchBreakEnd": "11:00"
+  },
+  "classes": [
+    "Nursery", "LKG", "UKG",
+    "Class 1", "Class 2", "Class 3", "Class 4", "Class 5",
+    "Class 6", "Class 7", "Class 8",
+    "Class 9", "Class 10",
+    "Class 11", "Class 12"
+  ],
+  "sections": ["A", "B", "C", "D"],
+  "totalStudents": 1240,
+  "totalTeachers": 52,
+  "totalStaff": 18,
+  "mediumOfInstruction": "Hindi + English",
+  "facilities": [
+    "Smart Classrooms",
+    "Science Laboratory",
+    "Computer Laboratory",
+    "Library",
+    "Playground",
+    "Indoor Sports Hall",
+    "Canteen",
+    "CCTV Surveillance",
+    "Transport Facility",
+    "Medical Room"
+  ],
+  "bankDetails": {
+    "bankName": "State Bank of India",
+    "accountName": "Saraswati Vidya Mandir",
+    "accountNumber": "32145678901",
+    "ifscCode": "SBIN0001234",
+    "branch": "Hazratganj Branch, Lucknow"
+  },
+  "saas": {
+    "plan": "professional",
+    "planStartDate": "2024-04-01",
+    "planEndDate": "2025-03-31",
+    "maxStudents": 1500,
+    "maxTeachers": 75,
+    "featuresEnabled": [
+      "attendance",
+      "homework",
+      "assignments",
+      "fees",
+      "notices",
+      "materials",
+      "leaves",
+      "timetable",
+      "test_results",
+      "notifications"
+    ],
+    "adminUid": "UID_ADMIN_SCH001",
+    "createdAt": "2024-03-15T10:00:00+05:30"
+  }
+}

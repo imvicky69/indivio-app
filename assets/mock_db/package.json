@@ -1,0 +1,25 @@
+{
+  "name": "indivio-firestore-seed",
+  "version": "1.0.0",
+  "description": "Seeds Indivio mock DB JSON files into Firebase Firestore",
+  "main": "seed.js",
+  "scripts": {
+    "seed": "node seed.js",
+    "seed:dry": "node seed.js --dry-run",
+    "seed:wipe": "node seed.js --wipe",
+    "verify": "node seed.js --verify",
+    "seed:school": "node seed.js --collection school",
+    "seed:students": "node seed.js --collection students",
+    "seed:teachers": "node seed.js --collection teachers",
+    "seed:attendance": "node seed.js --collection attendance",
+    "seed:academics": "node seed.js --collection academics",
+    "seed:fees": "node seed.js --collection fees"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

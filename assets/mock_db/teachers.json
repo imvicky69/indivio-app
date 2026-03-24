@@ -1,0 +1,386 @@
+[
+  {
+    "teacherId": "TCH001",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "employeeId": "SVM-TCH-001",
+      "uid": "UID_TCH001",
+      "phone": "+91-9876501001",
+      "email": "rakesh.sharma@svmlucknow.edu.in"
+    },
+
+    "personal": {
+      "fullName": "Mr. Rakesh Kumar Sharma",
+      "firstName": "Rakesh Kumar",
+      "lastName": "Sharma",
+      "dob": "1982-06-14",
+      "age": 42,
+      "gender": "Male",
+      "bloodGroup": "B+",
+      "religion": "Hindu",
+      "category": "General",
+      "photoUrl": "assets/mock/teachers/tch001.png"
+    },
+
+    "professional": {
+      "employeeId": "SVM-TCH-001",
+      "designation": "Senior Teacher",
+      "department": "Mathematics",
+      "joiningDate": "2008-06-01",
+      "employmentType": "Permanent",
+      "qualification": ["B.Sc. (Maths)", "B.Ed.", "M.Sc. (Maths)"],
+      "experience_years": 16,
+      "specialization": "Mathematics",
+      "subjects": [
+        {
+          "subjectId": "SUB_MATH",
+          "subjectName": "Mathematics",
+          "classes": ["CLS_10A", "CLS_10B", "CLS_9A"]
+        }
+      ],
+      "classTeacherOf": "CLS_10A",
+      "classTeacherOfName": "Class 10-A",
+      "isClassTeacher": true,
+      "periodsPerWeek": 28
+    },
+
+    "contact": {
+      "phone": "+91-9876501001",
+      "alternatePhone": "+91-9876501002",
+      "email": "rakesh.sharma@svmlucknow.edu.in",
+      "personalEmail": "rakesh.sharma1982@gmail.com",
+      "address": {
+        "line1": "A-22, Vikas Nagar",
+        "line2": "Sector 4",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226022"
+      }
+    },
+
+    "salary": {
+      "grade": "PGT",
+      "basicPay": 47600,
+      "gradePay": 4800,
+      "totalGross": 68000
+    },
+
+    "appAccess": {
+      "uid": "UID_TCH001",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_TCH001",
+      "lastLogin": "2024-11-20T07:10:00+05:30"
+    },
+
+    "createdAt": "2024-04-01T09:00:00+05:30"
+  },
+
+  {
+    "teacherId": "TCH002",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "employeeId": "SVM-TCH-002",
+      "uid": "UID_TCH002",
+      "phone": "+91-9876501003",
+      "email": "priya.verma@svmlucknow.edu.in"
+    },
+
+    "personal": {
+      "fullName": "Mrs. Priya Verma",
+      "firstName": "Priya",
+      "lastName": "Verma",
+      "dob": "1989-02-28",
+      "age": 35,
+      "gender": "Female",
+      "bloodGroup": "A+",
+      "religion": "Hindu",
+      "category": "OBC",
+      "photoUrl": "assets/mock/teachers/tch002.png"
+    },
+
+    "professional": {
+      "employeeId": "SVM-TCH-002",
+      "designation": "TGT Teacher",
+      "department": "Science",
+      "joiningDate": "2015-07-01",
+      "employmentType": "Permanent",
+      "qualification": ["B.Sc.", "B.Ed."],
+      "experience_years": 9,
+      "specialization": "Science",
+      "subjects": [
+        {
+          "subjectId": "SUB_SCI",
+          "subjectName": "Science",
+          "classes": ["CLS_10B", "CLS_9A", "CLS_8A"]
+        }
+      ],
+      "classTeacherOf": "CLS_10B",
+      "classTeacherOfName": "Class 10-B",
+      "isClassTeacher": true,
+      "periodsPerWeek": 24
+    },
+
+    "contact": {
+      "phone": "+91-9876501003",
+      "alternatePhone": null,
+      "email": "priya.verma@svmlucknow.edu.in",
+      "personalEmail": "priyaverma89@gmail.com",
+      "address": {
+        "line1": "B-7, Rajajipuram",
+        "line2": "Block B",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226017"
+      }
+    },
+
+    "salary": {
+      "grade": "TGT",
+      "basicPay": 35400,
+      "gradePay": 4200,
+      "totalGross": 52000
+    },
+
+    "appAccess": {
+      "uid": "UID_TCH002",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_TCH002",
+      "lastLogin": "2024-11-20T07:30:00+05:30"
+    },
+
+    "createdAt": "2024-04-01T09:00:00+05:30"
+  },
+
+  {
+    "teacherId": "TCH003",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "employeeId": "SVM-TCH-003",
+      "uid": "UID_TCH003",
+      "phone": "+91-9876501005",
+      "email": "sunita.mishra@svmlucknow.edu.in"
+    },
+
+    "personal": {
+      "fullName": "Mrs. Sunita Mishra",
+      "firstName": "Sunita",
+      "lastName": "Mishra",
+      "dob": "1985-09-10",
+      "age": 39,
+      "gender": "Female",
+      "bloodGroup": "O+",
+      "religion": "Hindu",
+      "category": "General",
+      "photoUrl": "assets/mock/teachers/tch003.png"
+    },
+
+    "professional": {
+      "employeeId": "SVM-TCH-003",
+      "designation": "TGT Teacher",
+      "department": "English",
+      "joiningDate": "2011-04-01",
+      "employmentType": "Permanent",
+      "qualification": ["B.A. (English Hons.)", "B.Ed.", "M.A. (English)"],
+      "experience_years": 13,
+      "specialization": "English Literature & Grammar",
+      "subjects": [
+        {
+          "subjectId": "SUB_ENG",
+          "subjectName": "English",
+          "classes": ["CLS_10A", "CLS_10B", "CLS_9A"]
+        }
+      ],
+      "classTeacherOf": "CLS_9A",
+      "classTeacherOfName": "Class 9-A",
+      "isClassTeacher": true,
+      "periodsPerWeek": 26
+    },
+
+    "contact": {
+      "phone": "+91-9876501005",
+      "alternatePhone": "+91-9876501006",
+      "email": "sunita.mishra@svmlucknow.edu.in",
+      "personalEmail": "sunitamishra85@yahoo.com",
+      "address": {
+        "line1": "House No. 8, Nirala Nagar",
+        "line2": null,
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226020"
+      }
+    },
+
+    "salary": {
+      "grade": "TGT",
+      "basicPay": 35400,
+      "gradePay": 4200,
+      "totalGross": 54000
+    },
+
+    "appAccess": {
+      "uid": "UID_TCH003",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_TCH003",
+      "lastLogin": "2024-11-20T08:00:00+05:30"
+    },
+
+    "createdAt": "2024-04-01T09:00:00+05:30"
+  },
+
+  {
+    "teacherId": "TCH004",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "employeeId": "SVM-TCH-004",
+      "uid": "UID_TCH004",
+      "phone": "+91-9876501007",
+      "email": "amit.pandey@svmlucknow.edu.in"
+    },
+
+    "personal": {
+      "fullName": "Mr. Amit Pandey",
+      "firstName": "Amit",
+      "lastName": "Pandey",
+      "dob": "1990-12-03",
+      "age": 33,
+      "gender": "Male",
+      "bloodGroup": "B+",
+      "religion": "Hindu",
+      "category": "General",
+      "photoUrl": "assets/mock/teachers/tch004.png"
+    },
+
+    "professional": {
+      "employeeId": "SVM-TCH-004",
+      "designation": "TGT Teacher",
+      "department": "Social Science",
+      "joiningDate": "2018-04-01",
+      "employmentType": "Permanent",
+      "qualification": ["B.A. (History, Pol.Sci.)", "B.Ed."],
+      "experience_years": 6,
+      "specialization": "History & Civics",
+      "subjects": [
+        {
+          "subjectId": "SUB_SST",
+          "subjectName": "Social Science",
+          "classes": ["CLS_10A", "CLS_10B", "CLS_8A"]
+        }
+      ],
+      "classTeacherOf": "CLS_8A",
+      "classTeacherOfName": "Class 8-A",
+      "isClassTeacher": true,
+      "periodsPerWeek": 22
+    },
+
+    "contact": {
+      "phone": "+91-9876501007",
+      "alternatePhone": null,
+      "email": "amit.pandey@svmlucknow.edu.in",
+      "personalEmail": "amitpandey.lko@gmail.com",
+      "address": {
+        "line1": "54/3 Hazratganj",
+        "line2": "Near GPO",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226001"
+      }
+    },
+
+    "salary": {
+      "grade": "TGT",
+      "basicPay": 35400,
+      "gradePay": 4200,
+      "totalGross": 50000
+    },
+
+    "appAccess": {
+      "uid": "UID_TCH004",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_TCH004",
+      "lastLogin": "2024-11-19T18:15:00+05:30"
+    },
+
+    "createdAt": "2024-04-01T09:00:00+05:30"
+  },
+
+  {
+    "teacherId": "TCH005",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "employeeId": "SVM-TCH-005",
+      "uid": "UID_TCH005",
+      "phone": "+91-9876501009",
+      "email": "neha.tiwari@svmlucknow.edu.in"
+    },
+
+    "personal": {
+      "fullName": "Ms. Neha Tiwari",
+      "firstName": "Neha",
+      "lastName": "Tiwari",
+      "dob": "1995-05-17",
+      "age": 29,
+      "gender": "Female",
+      "bloodGroup": "A-",
+      "religion": "Hindu",
+      "category": "General",
+      "photoUrl": "assets/mock/teachers/tch005.png"
+    },
+
+    "professional": {
+      "employeeId": "SVM-TCH-005",
+      "designation": "Computer Teacher",
+      "department": "Information Technology",
+      "joiningDate": "2022-04-01",
+      "employmentType": "Contractual",
+      "qualification": ["B.Tech (CSE)", "B.Ed."],
+      "experience_years": 2,
+      "specialization": "Computer Science & IT",
+      "subjects": [
+        {
+          "subjectId": "SUB_IT",
+          "subjectName": "Information Technology",
+          "classes": ["CLS_10A", "CLS_10B", "CLS_9A"]
+        }
+      ],
+      "classTeacherOf": null,
+      "classTeacherOfName": null,
+      "isClassTeacher": false,
+      "periodsPerWeek": 18
+    },
+
+    "contact": {
+      "phone": "+91-9876501009",
+      "alternatePhone": null,
+      "email": "neha.tiwari@svmlucknow.edu.in",
+      "personalEmail": "neha.tiwari95@gmail.com",
+      "address": {
+        "line1": "12-A, Sunder Bagh Colony",
+        "line2": "Alambagh",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226005"
+      }
+    },
+
+    "salary": {
+      "grade": "Contractual",
+      "basicPay": 25000,
+      "gradePay": 0,
+      "totalGross": 28000
+    },
+
+    "appAccess": {
+      "uid": "UID_TCH005",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_TCH005",
+      "lastLogin": "2024-11-20T07:45:00+05:30"
+    },
+
+    "createdAt": "2022-04-01T09:00:00+05:30"
+  }
+]

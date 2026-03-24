@@ -1,0 +1,69 @@
+[
+  {
+    "classId": "CLS_10A",
+    "schoolId": "SCH001",
+    "name": "Class 10",
+    "section": "A",
+    "displayName": "10-A",
+    "board": "CBSE",
+    "academicYear": "2024-25",
+    "classTeacherId": "TCH001",
+    "classTeacherName": "Mr. Rakesh Kumar Sharma",
+    "roomNumber": "Room 201",
+    "totalStudents": 42,
+    "subjectIds": ["SUB_MATH", "SUB_SCI", "SUB_ENG", "SUB_HIN", "SUB_SST", "SUB_IT"],
+    "studentIds": [
+      "STU001", "STU002", "STU003", "STU004", "STU005",
+      "STU006", "STU007", "STU008", "STU009", "STU010"
+    ],
+    "createdAt": "2024-04-01T07:00:00+05:30"
+  },
+  {
+    "classId": "CLS_10B",
+    "schoolId": "SCH001",
+    "name": "Class 10",
+    "section": "B",
+    "displayName": "10-B",
+    "board": "CBSE",
+    "academicYear": "2024-25",
+    "classTeacherId": "TCH002",
+    "classTeacherName": "Mrs. Priya Verma",
+    "roomNumber": "Room 202",
+    "totalStudents": 40,
+    "subjectIds": ["SUB_MATH", "SUB_SCI", "SUB_ENG", "SUB_HIN", "SUB_SST", "SUB_IT"],
+    "studentIds": ["STU011", "STU012"],
+    "createdAt": "2024-04-01T07:00:00+05:30"
+  },
+  {
+    "classId": "CLS_9A",
+    "schoolId": "SCH001",
+    "name": "Class 9",
+    "section": "A",
+    "displayName": "9-A",
+    "board": "CBSE",
+    "academicYear": "2024-25",
+    "classTeacherId": "TCH003",
+    "classTeacherName": "Mrs. Sunita Mishra",
+    "roomNumber": "Room 101",
+    "totalStudents": 38,
+    "subjectIds": ["SUB_MATH", "SUB_SCI", "SUB_ENG", "SUB_HIN", "SUB_SST", "SUB_IT"],
+    "studentIds": ["STU013"],
+    "createdAt": "2024-04-01T07:00:00+05:30"
+  },
+  {
+    "classId": "CLS_8A",
+    "schoolId": "SCH001",
+    "name": "Class 8",
+    "section": "A",
+    "displayName": "8-A",
+    "board": "CBSE",
+    "academicYear": "2024-25",
+    "classTeacherId": "TCH004",
+    "classTeacherName": "Mr. Amit Pandey",
+    "roomNumber": "Room 105",
+    "totalStudents": 35,
+    "subjectIds": ["SUB_MATH", "SUB_SCI", "SUB_ENG", "SUB_HIN", "SUB_SST"],
+    "studentIds": [],
+    "createdAt": "2024-04-01T07:00:00+05:30"
+  }
+]

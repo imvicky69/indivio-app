@@ -1,0 +1,265 @@
+{
+  "homework": [
+    {
+      "homeworkId": "HW001",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "subjectId": "SUB_MATH",
+      "subjectName": "Mathematics",
+      "subjectColor": "#185FA5",
+      "teacherId": "TCH001",
+      "teacherName": "Mr. R.K. Sharma",
+      "title": "Exercise 4.3 — Quadratic Equations",
+      "description": "Solve Q.1 to Q.10 from Exercise 4.3. Show complete steps. Write in fair notebook.",
+      "dueDate": "2024-11-21",
+      "dueTime": "07:30",
+      "assignedDate": "2024-11-20",
+      "attachments": [],
+      "isUrgent": false,
+      "createdAt": "2024-11-20T13:20:00+05:30"
+    },
+    {
+      "homeworkId": "HW002",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "subjectId": "SUB_SCI",
+      "subjectName": "Science",
+      "subjectColor": "#3B6D11",
+      "teacherId": "TCH002",
+      "teacherName": "Mrs. P. Verma",
+      "title": "Chapter 9 — Heredity & Evolution : Notes",
+      "description": "Write short notes on: (1) Mendel's Laws (2) Darwinism (3) Difference between acquired and inherited traits. Minimum 2 pages.",
+      "dueDate": "2024-11-22",
+      "dueTime": "07:30",
+      "assignedDate": "2024-11-20",
+      "attachments": [
+        {
+          "name": "Heredity_reference.pdf",
+          "url": "assets/mock/files/heredity_ref.pdf",
+          "type": "pdf",
+          "sizeKB": 340
+        }
+      ],
+      "isUrgent": false,
+      "createdAt": "2024-11-20T11:00:00+05:30"
+    },
+    {
+      "homeworkId": "HW003",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "subjectId": "SUB_ENG",
+      "subjectName": "English",
+      "subjectColor": "#FF6B35",
+      "teacherId": "TCH003",
+      "teacherName": "Mrs. S. Mishra",
+      "title": "Letter Writing — Formal Letter Practice",
+      "description": "Write a formal letter to the Principal requesting 3 days leave for attending a family function. Word limit: 200 words. Use proper format.",
+      "dueDate": "2024-11-21",
+      "dueTime": "07:30",
+      "assignedDate": "2024-11-19",
+      "attachments": [],
+      "isUrgent": true,
+      "createdAt": "2024-11-19T12:30:00+05:30"
+    },
+    {
+      "homeworkId": "HW004",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "subjectId": "SUB_HIN",
+      "subjectName": "Hindi",
+      "subjectColor": "#BA7517",
+      "teacherId": "TCH006",
+      "teacherName": "Mr. D.P. Tripathi",
+      "title": "पाठ 7 — नेताजी का चश्मा : प्रश्नोत्तर",
+      "description": "पाठ्यपुस्तक के प्रश्न 1 से 6 तक उत्तर लिखिए। विस्तृत उत्तर हिंदी की कॉपी में लिखें।",
+      "dueDate": "2024-11-23",
+      "dueTime": "07:30",
+      "assignedDate": "2024-11-20",
+      "attachments": [],
+      "isUrgent": false,
+      "createdAt": "2024-11-20T10:15:00+05:30"
+    }
+  ],
+
+  "assignments": [
+    {
+      "assignmentId": "ASN001",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "subjectId": "SUB_MATH",
+      "subjectName": "Mathematics",
+      "subjectColor": "#185FA5",
+      "teacherId": "TCH001",
+      "teacherName": "Mr. R.K. Sharma",
+      "title": "Unit Test — Real Numbers & Polynomials",
+      "description": "Solve the assignment paper attached. All questions are compulsory. Show proper working. Submit as PDF scan.",
+      "totalMarks": 25,
+      "passingMarks": 10,
+      "dueDate": "2024-11-25",
+      "dueTime": "23:59",
+      "assignedDate": "2024-11-18",
+      "attachments": [
+        {
+          "name": "Math_Assignment_Nov2024.pdf",
+          "url": "assets/mock/files/math_assignment.pdf",
+          "type": "pdf",
+          "sizeKB": 520
+        }
+      ],
+      "submissionType": "file",
+      "allowLateSubmission": false,
+      "createdAt": "2024-11-18T09:00:00+05:30",
+      "submissions": [
+        {
+          "submissionId": "SUB_ASN001_STU001",
+          "studentId": "STU001",
+          "studentName": "Aarav Singh Rajput",
+          "rollNo": "01",
+          "status": "submitted",
+          "submittedAt": "2024-11-20T19:30:00+05:30",
+          "files": [{ "name": "aarav_math_unit_test.pdf", "url": "assets/mock/files/sub_stu001_asn001.pdf", "sizeKB": 2100 }],
+          "text": null,
+          "marks": null,
+          "grade": null,
+          "feedback": null,
+          "gradedBy": null,
+          "gradedAt": null
+        },
+        {
+          "submissionId": "SUB_ASN001_STU002",
+          "studentId": "STU002",
+          "studentName": "Priya Sharma",
+          "rollNo": "02",
+          "status": "graded",
+          "submittedAt": "2024-11-19T21:00:00+05:30",
+          "files": [{ "name": "priya_math_unit_test.pdf", "url": "assets/mock/files/sub_stu002_asn001.pdf", "sizeKB": 1850 }],
+          "text": null,
+          "marks": 23,
+          "grade": "A+",
+          "feedback": "Excellent work! All steps clearly shown.",
+          "gradedBy": "TCH001",
+          "gradedAt": "2024-11-20T10:00:00+05:30"
+        },
+        {
+          "submissionId": "SUB_ASN001_STU004",
+          "studentId": "STU004",
+          "studentName": "Ananya Gupta",
+          "rollNo": "04",
+          "status": "graded",
+          "submittedAt": "2024-11-18T20:15:00+05:30",
+          "files": [{ "name": "ananya_math_unit_test.pdf", "url": "assets/mock/files/sub_stu004_asn001.pdf", "sizeKB": 2300 }],
+          "text": null,
+          "marks": 25,
+          "grade": "A+",
+          "feedback": "Perfect score! Outstanding performance.",
+          "gradedBy": "TCH001",
+          "gradedAt": "2024-11-19T09:30:00+05:30"
+        }
+      ]
+    },
+    {
+      "assignmentId": "ASN002",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "subjectId": "SUB_SCI",
+      "subjectName": "Science",
+      "subjectColor": "#3B6D11",
+      "teacherId": "TCH002",
+      "teacherName": "Mrs. P. Verma",
+      "title": "Project — Renewable Energy Sources in India",
+      "description": "Prepare a project report on any two renewable energy sources (Solar / Wind / Biogas / Hydro). Include: Introduction, Working principle, Advantages, Disadvantages, Use in India, Conclusion. Min 6 pages, handwritten.",
+      "totalMarks": 20,
+      "passingMarks": 8,
+      "dueDate": "2024-11-30",
+      "dueTime": "23:59",
+      "assignedDate": "2024-11-15",
+      "attachments": [
+        {
+          "name": "Project_Guidelines.pdf",
+          "url": "assets/mock/files/sci_project_guide.pdf",
+          "type": "pdf",
+          "sizeKB": 220
+        }
+      ],
+      "submissionType": "file",
+      "allowLateSubmission": true,
+      "createdAt": "2024-11-15T11:00:00+05:30",
+      "submissions": []
+    }
+  ],
+
+  "testResults": [
+    {
+      "testId": "TEST001",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "title": "Unit Test 1 — Mathematics",
+      "subjectId": "SUB_MATH",
+      "subjectName": "Mathematics",
+      "type": "unit",
+      "totalMarks": 25,
+      "passingMarks": 10,
+      "date": "2024-09-15",
+      "conductedBy": "TCH001",
+      "publishedAt": "2024-09-18T10:00:00+05:30",
+      "classAverage": 17.8,
+      "highest": 25,
+      "lowest": 8,
+      "results": [
+        { "studentId": "STU001", "marks": 20, "grade": "B+", "rank": 3, "percentage": 80.0, "remarks": "Good effort" },
+        { "studentId": "STU002", "marks": 23, "grade": "A",  "rank": 2, "percentage": 92.0, "remarks": "Excellent" },
+        { "studentId": "STU003", "marks": 14, "grade": "C+", "rank": 18, "percentage": 56.0, "remarks": "Needs improvement in algebra" },
+        { "studentId": "STU004", "marks": 25, "grade": "A+", "rank": 1, "percentage": 100.0, "remarks": "Perfect! Outstanding" },
+        { "studentId": "STU005", "marks": 11, "grade": "C",  "rank": 32, "percentage": 44.0, "remarks": "Please practise daily" }
+      ]
+    },
+    {
+      "testId": "TEST002",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "title": "Half Yearly Exam — Science",
+      "subjectId": "SUB_SCI",
+      "subjectName": "Science",
+      "type": "term",
+      "totalMarks": 80,
+      "passingMarks": 27,
+      "date": "2024-10-05",
+      "conductedBy": "TCH002",
+      "publishedAt": "2024-10-20T10:00:00+05:30",
+      "classAverage": 52.4,
+      "highest": 76,
+      "lowest": 21,
+      "results": [
+        { "studentId": "STU001", "marks": 61, "grade": "B+", "rank": 7, "percentage": 76.3, "remarks": "Good performance" },
+        { "studentId": "STU002", "marks": 74, "grade": "A+", "rank": 2, "percentage": 92.5, "remarks": "Brilliant" },
+        { "studentId": "STU003", "marks": 45, "grade": "B",  "rank": 22, "percentage": 56.3, "remarks": "Average. Focus on chapter 10 and 12" },
+        { "studentId": "STU004", "marks": 76, "grade": "A+", "rank": 1, "percentage": 95.0, "remarks": "Exceptional! Best in class" },
+        { "studentId": "STU005", "marks": 38, "grade": "C+", "rank": 30, "percentage": 47.5, "remarks": "Revise regularly" }
+      ]
+    },
+    {
+      "testId": "TEST003",
+      "schoolId": "SCH001",
+      "classId": "CLS_10A",
+      "title": "Unit Test 1 — English",
+      "subjectId": "SUB_ENG",
+      "subjectName": "English",
+      "type": "unit",
+      "totalMarks": 25,
+      "passingMarks": 10,
+      "date": "2024-09-18",
+      "conductedBy": "TCH003",
+      "publishedAt": "2024-09-21T10:00:00+05:30",
+      "classAverage": 18.2,
+      "highest": 24,
+      "lowest": 10,
+      "results": [
+        { "studentId": "STU001", "marks": 19, "grade": "A",  "rank": 8, "percentage": 76.0, "remarks": "Good" },
+        { "studentId": "STU002", "marks": 22, "grade": "A+", "rank": 3, "percentage": 88.0, "remarks": "Very good writing" },
+        { "studentId": "STU003", "marks": 15, "grade": "C+", "rank": 25, "percentage": 60.0, "remarks": "Grammar needs work" },
+        { "studentId": "STU004", "marks": 24, "grade": "A+", "rank": 1, "percentage": 96.0, "remarks": "Excellent vocabulary" },
+        { "studentId": "STU005", "marks": 13, "grade": "C",  "rank": 33, "percentage": 52.0, "remarks": "Read English newspaper daily" }
+      ]
+    }
+  ]
+}

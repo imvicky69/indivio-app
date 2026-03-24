@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "indivio-edtech-70a85",
+          "appId": "1:541556910628:android:97c4772e23bba388dcc6b1",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "indivio-edtech-70a85",
+          "configurations": {
+            "android": "1:541556910628:android:97c4772e23bba388dcc6b1",
+            "ios": "1:541556910628:ios:2de9e0918c8865e5dcc6b1"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "asia-south1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

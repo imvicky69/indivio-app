@@ -1,0 +1,15 @@
+{
+  "project": "indivio",
+  "platform": "ios",
+  "github": {
+    "owner": "imvicky69",
+    "repo": "indivio-app"
+  },
+  "ios": {},
+  "flutter": {
+    "version": "3.42.0-0.4.pre",
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}

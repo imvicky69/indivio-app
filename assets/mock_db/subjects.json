@@ -1,0 +1,112 @@
+[
+  {
+    "subjectId": "SUB_MATH",
+    "schoolId": "SCH001",
+    "name": "Mathematics",
+    "shortName": "Math",
+    "code": "041",
+    "colorHex": "#185FA5",
+    "icon": "calculate",
+    "applicableClasses": ["Class 6","Class 7","Class 8","Class 9","Class 10"],
+    "isMainSubject": true
+  },
+  {
+    "subjectId": "SUB_SCI",
+    "schoolId": "SCH001",
+    "name": "Science",
+    "shortName": "Sci",
+    "code": "086",
+    "colorHex": "#3B6D11",
+    "icon": "science",
+    "applicableClasses": ["Class 6","Class 7","Class 8","Class 9","Class 10"],
+    "isMainSubject": true
+  },
+  {
+    "subjectId": "SUB_ENG",
+    "schoolId": "SCH001",
+    "name": "English",
+    "shortName": "Eng",
+    "code": "184",
+    "colorHex": "#FF6B35",
+    "icon": "menu_book",
+    "applicableClasses": ["Class 1","Class 2","Class 3","Class 4","Class 5","Class 6","Class 7","Class 8","Class 9","Class 10","Class 11","Class 12"],
+    "isMainSubject": true
+  },
+  {
+    "subjectId": "SUB_HIN",
+    "schoolId": "SCH001",
+    "name": "Hindi",
+    "shortName": "Hindi",
+    "code": "002",
+    "colorHex": "#BA7517",
+    "icon": "translate",
+    "applicableClasses": ["Class 1","Class 2","Class 3","Class 4","Class 5","Class 6","Class 7","Class 8","Class 9","Class 10"],
+    "isMainSubject": true
+  },
+  {
+    "subjectId": "SUB_SST",
+    "schoolId": "SCH001",
+    "name": "Social Science",
+    "shortName": "SST",
+    "code": "087",
+    "colorHex": "#534AB7",
+    "icon": "public",
+    "applicableClasses": ["Class 6","Class 7","Class 8","Class 9","Class 10"],
+    "isMainSubject": true
+  },
+  {
+    "subjectId": "SUB_IT",
+    "schoolId": "SCH001",
+    "name": "Information Technology",
+    "shortName": "IT",
+    "code": "402",
+    "colorHex": "#0F6E56",
+    "icon": "computer",
+    "applicableClasses": ["Class 9","Class 10"],
+    "isMainSubject": false
+  },
+  {
+    "subjectId": "SUB_SAN",
+    "schoolId": "SCH001",
+    "name": "Sanskrit",
+    "shortName": "Skt",
+    "code": "122",
+    "colorHex": "#993C1D",
+    "icon": "history_edu",
+    "applicableClasses": ["Class 6","Class 7","Class 8"],
+    "isMainSubject": false
+  },
+  {
+    "subjectId": "SUB_PHY",
+    "schoolId": "SCH001",
+    "name": "Physics",
+    "shortName": "Phy",
+    "code": "042",
+    "colorHex": "#185FA5",
+    "icon": "bolt",
+    "applicableClasses": ["Class 11","Class 12"],
+    "isMainSubject": true
+  },
+  {
+    "subjectId": "SUB_CHEM",
+    "schoolId": "SCH001",
+    "name": "Chemistry",
+    "shortName": "Chem",
+    "code": "043",
+    "colorHex": "#3B6D11",
+    "icon": "biotech",
+    "applicableClasses": ["Class 11","Class 12"],
+    "isMainSubject": true
+  },
+  {
+    "subjectId": "SUB_BIO",
+    "schoolId": "SCH001",
+    "name": "Biology",
+    "shortName": "Bio",
+    "code": "044",
+    "colorHex": "#639922",
+    "icon": "eco",
+    "applicableClasses": ["Class 11","Class 12"],
+    "isMainSubject": true
+  }
+]

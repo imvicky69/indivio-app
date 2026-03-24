@@ -1,0 +1,91 @@
+{
+  "timetableId": "TT_CLS10A_2024",
+  "schoolId": "SCH001",
+  "classId": "CLS_10A",
+  "className": "Class 10-A",
+  "academicYear": "2024-25",
+  "effectiveFrom": "2024-04-01",
+  "periodDuration_minutes": 45,
+  "totalPeriodsPerDay": 7,
+  "breakSchedule": [
+    {
+      "afterPeriod": 2,
+      "name": "Short Break",
+      "duration_minutes": 10,
+      "startTime": "09:05",
+      "endTime": "09:15"
+    },
+    {
+      "afterPeriod": 4,
+      "name": "Lunch Break",
+      "duration_minutes": 30,
+      "startTime": "10:30",
+      "endTime": "11:00"
+    }
+  ],
+  "periodTimings": [
+    { "period": 1, "startTime": "07:30", "endTime": "08:15" },
+    { "period": 2, "startTime": "08:15", "endTime": "09:00" },
+    { "period": 3, "startTime": "09:10", "endTime": "09:55" },
+    { "period": 4, "startTime": "09:55", "endTime": "10:40" },
+    { "period": 5, "startTime": "11:00", "endTime": "11:45" },
+    { "period": 6, "startTime": "11:45", "endTime": "12:30" },
+    { "period": 7, "startTime": "12:30", "endTime": "13:15" }
+  ],
+  "schedule": {
+    "monday": [
+      { "period": 1, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",          "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" },
+      { "period": 2, "subjectId": "SUB_ENG",   "subjectName": "English",               "teacherId": "TCH003", "teacherName": "Mrs. S. Mishra",   "roomNumber": "Room 201" },
+      { "period": 3, "subjectId": "SUB_SCI",   "subjectName": "Science",               "teacherId": "TCH002", "teacherName": "Mrs. P. Verma",    "roomNumber": "Lab 1" },
+      { "period": 4, "subjectId": "SUB_HIN",   "subjectName": "Hindi",                 "teacherId": "TCH006", "teacherName": "Mr. D.P. Tripathi", "roomNumber": "Room 201" },
+      { "period": 5, "subjectId": "SUB_SST",   "subjectName": "Social Science",        "teacherId": "TCH004", "teacherName": "Mr. A. Pandey",    "roomNumber": "Room 201" },
+      { "period": 6, "subjectId": "SUB_IT",    "subjectName": "Information Technology","teacherId": "TCH005", "teacherName": "Ms. N. Tiwari",    "roomNumber": "Computer Lab" },
+      { "period": 7, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",           "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" }
+    ],
+    "tuesday": [
+      { "period": 1, "subjectId": "SUB_SCI",   "subjectName": "Science",               "teacherId": "TCH002", "teacherName": "Mrs. P. Verma",    "roomNumber": "Lab 1" },
+      { "period": 2, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",           "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" },
+      { "period": 3, "subjectId": "SUB_HIN",   "subjectName": "Hindi",                 "teacherId": "TCH006", "teacherName": "Mr. D.P. Tripathi", "roomNumber": "Room 201" },
+      { "period": 4, "subjectId": "SUB_ENG",   "subjectName": "English",               "teacherId": "TCH003", "teacherName": "Mrs. S. Mishra",   "roomNumber": "Room 201" },
+      { "period": 5, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",           "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" },
+      { "period": 6, "subjectId": "SUB_SST",   "subjectName": "Social Science",        "teacherId": "TCH004", "teacherName": "Mr. A. Pandey",    "roomNumber": "Room 201" },
+      { "period": 7, "subjectId": "SUB_SCI",   "subjectName": "Science (Practical)",   "teacherId": "TCH002", "teacherName": "Mrs. P. Verma",    "roomNumber": "Lab 1" }
+    ],
+    "wednesday": [
+      { "period": 1, "subjectId": "SUB_ENG",   "subjectName": "English",               "teacherId": "TCH003", "teacherName": "Mrs. S. Mishra",   "roomNumber": "Room 201" },
+      { "period": 2, "subjectId": "SUB_SST",   "subjectName": "Social Science",        "teacherId": "TCH004", "teacherName": "Mr. A. Pandey",    "roomNumber": "Room 201" },
+      { "period": 3, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",           "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" },
+      { "period": 4, "subjectId": "SUB_IT",    "subjectName": "Information Technology","teacherId": "TCH005", "teacherName": "Ms. N. Tiwari",    "roomNumber": "Computer Lab" },
+      { "period": 5, "subjectId": "SUB_HIN",   "subjectName": "Hindi",                 "teacherId": "TCH006", "teacherName": "Mr. D.P. Tripathi", "roomNumber": "Room 201" },
+      { "period": 6, "subjectId": "SUB_SCI",   "subjectName": "Science",               "teacherId": "TCH002", "teacherName": "Mrs. P. Verma",    "roomNumber": "Lab 1" },
+      { "period": 7, "subjectId": "SUB_ENG",   "subjectName": "English (Literature)",  "teacherId": "TCH003", "teacherName": "Mrs. S. Mishra",   "roomNumber": "Room 201" }
+    ],
+    "thursday": [
+      { "period": 1, "subjectId": "SUB_HIN",   "subjectName": "Hindi",                 "teacherId": "TCH006", "teacherName": "Mr. D.P. Tripathi", "roomNumber": "Room 201" },
+      { "period": 2, "subjectId": "SUB_SCI",   "subjectName": "Science",               "teacherId": "TCH002", "teacherName": "Mrs. P. Verma",    "roomNumber": "Lab 1" },
+      { "period": 3, "subjectId": "SUB_ENG",   "subjectName": "English",               "teacherId": "TCH003", "teacherName": "Mrs. S. Mishra",   "roomNumber": "Room 201" },
+      { "period": 4, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",           "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" },
+      { "period": 5, "subjectId": "SUB_SST",   "subjectName": "Social Science",        "teacherId": "TCH004", "teacherName": "Mr. A. Pandey",    "roomNumber": "Room 201" },
+      { "period": 6, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",           "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" },
+      { "period": 7, "subjectId": "PT",        "subjectName": "Physical Training",     "teacherId": "TCH007", "teacherName": "Mr. S. Rana",      "roomNumber": "Playground" }
+    ],
+    "friday": [
+      { "period": 1, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",           "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" },
+      { "period": 2, "subjectId": "SUB_IT",    "subjectName": "Information Technology","teacherId": "TCH005", "teacherName": "Ms. N. Tiwari",    "roomNumber": "Computer Lab" },
+      { "period": 3, "subjectId": "SUB_SST",   "subjectName": "Social Science",        "teacherId": "TCH004", "teacherName": "Mr. A. Pandey",    "roomNumber": "Room 201" },
+      { "period": 4, "subjectId": "SUB_HIN",   "subjectName": "Hindi",                 "teacherId": "TCH006", "teacherName": "Mr. D.P. Tripathi", "roomNumber": "Room 201" },
+      { "period": 5, "subjectId": "SUB_ENG",   "subjectName": "English",               "teacherId": "TCH003", "teacherName": "Mrs. S. Mishra",   "roomNumber": "Room 201" },
+      { "period": 6, "subjectId": "SUB_SCI",   "subjectName": "Science",               "teacherId": "TCH002", "teacherName": "Mrs. P. Verma",    "roomNumber": "Lab 1" },
+      { "period": 7, "subjectId": "DRAW",      "subjectName": "Drawing / Art",         "teacherId": "TCH008", "teacherName": "Mrs. A. Bajpai",   "roomNumber": "Room 201" }
+    ],
+    "saturday": [
+      { "period": 1, "subjectId": "SUB_SCI",   "subjectName": "Science",               "teacherId": "TCH002", "teacherName": "Mrs. P. Verma",    "roomNumber": "Lab 1" },
+      { "period": 2, "subjectId": "SUB_MATH",  "subjectName": "Mathematics",           "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma",  "roomNumber": "Room 201" },
+      { "period": 3, "subjectId": "SUB_ENG",   "subjectName": "English",               "teacherId": "TCH003", "teacherName": "Mrs. S. Mishra",   "roomNumber": "Room 201" },
+      { "period": 4, "subjectId": "SUB_SST",   "subjectName": "Social Science",        "teacherId": "TCH004", "teacherName": "Mr. A. Pandey",    "roomNumber": "Room 201" },
+      { "period": 5, "subjectId": "ASSEMBLY",  "subjectName": "School Assembly / Moral Science", "teacherId": "TCH001", "teacherName": "Mr. R.K. Sharma", "roomNumber": "Assembly Ground" },
+      { "period": 6, "subjectId": "SUB_HIN",   "subjectName": "Hindi",                 "teacherId": "TCH006", "teacherName": "Mr. D.P. Tripathi", "roomNumber": "Room 201" }
+    ]
+  },
+  "updatedAt": "2024-04-01T09:00:00+05:30"
+}

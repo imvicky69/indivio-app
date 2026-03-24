@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541556910628",
+    "project_id": "indivio-edtech-70a85",
+    "storage_bucket": "indivio-edtech-70a85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541556910628:android:97c4772e23bba388dcc6b1",
+        "android_client_info": {
+          "package_name": "com.indivio.indivio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPFzmNCIV8G-M_pdrhGDQbjsIGMkTWZ2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

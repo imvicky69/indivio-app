@@ -1,0 +1,629 @@
+[
+  {
+    "studentId": "STU001",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "admissionNumber": "SVM-2019-0421",
+      "rollNumber": "01",
+      "srNumber": "SR-7821",
+      "uid": "UID_STU001",
+      "phone": "+91-9876511001",
+      "parentPhone": "+91-9876500101",
+      "aadharLast4": "3842"
+    },
+
+    "personal": {
+      "fullName": "Aarav Singh Rajput",
+      "firstName": "Aarav",
+      "lastName": "Rajput",
+      "fatherName": "Mr. Vikram Singh Rajput",
+      "motherName": "Mrs. Kavita Rajput",
+      "dob": "2008-03-15",
+      "age": 16,
+      "gender": "Male",
+      "bloodGroup": "B+",
+      "category": "General",
+      "religion": "Hindu",
+      "nationality": "Indian",
+      "motherTongue": "Hindi",
+      "photoUrl": "assets/mock/students/stu001.png"
+    },
+
+    "academic": {
+      "classId": "CLS_10A",
+      "className": "Class 10",
+      "section": "A",
+      "rollNumber": "01",
+      "admissionNumber": "SVM-2019-0421",
+      "srNumber": "SR-7821",
+      "admissionDate": "2019-04-01",
+      "academicYear": "2024-25",
+      "board": "CBSE",
+      "stream": null,
+      "previousSchool": "Delhi Public School, Lucknow",
+      "previousClass": "Class 9",
+      "previousPercentage": 81.4,
+      "houseGroup": "Bharat House"
+    },
+
+    "contact": {
+      "address": {
+        "line1": "B-14, Indira Nagar",
+        "line2": "Near LDA Colony",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226016"
+      },
+      "phone": "+91-9876511001",
+      "email": "aarav.rajput@gmail.com",
+      "emergencyContact": {
+        "name": "Mr. Vikram Singh Rajput",
+        "relation": "Father",
+        "phone": "+91-9876500101"
+      }
+    },
+
+    "parents": [
+      {
+        "parentId": "PAR001",
+        "relation": "Father",
+        "name": "Mr. Vikram Singh Rajput",
+        "phone": "+91-9876500101",
+        "email": "vikram.rajput@gmail.com",
+        "occupation": "Government Employee",
+        "qualification": "B.Sc.",
+        "annualIncome": 850000,
+        "isAppUser": true
+      },
+      {
+        "parentId": "PAR002",
+        "relation": "Mother",
+        "name": "Mrs. Kavita Rajput",
+        "phone": "+91-9876500102",
+        "email": "kavita.rajput@gmail.com",
+        "occupation": "Homemaker",
+        "qualification": "B.A.",
+        "annualIncome": 0,
+        "isAppUser": false
+      }
+    ],
+
+    "transport": {
+      "usesTransport": true,
+      "busRouteNumber": "Route-7",
+      "busStopName": "Indira Nagar Crossing",
+      "pickupTime": "07:00",
+      "dropTime": "14:15",
+      "driverName": "Ram Prasad",
+      "driverPhone": "+91-9988776655"
+    },
+
+    "health": {
+      "height_cm": 162,
+      "weight_kg": 52,
+      "eyeSight": "Normal",
+      "allergies": ["Dust"],
+      "medicalConditions": [],
+      "doctorName": "Dr. S.K. Gupta",
+      "doctorPhone": "+91-9876544321"
+    },
+
+    "fees": {
+      "feeCategory": "General",
+      "concession": false,
+      "concessionType": null,
+      "scholarshipApplied": false
+    },
+
+    "appAccess": {
+      "uid": "UID_STU001",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_STU001",
+      "lastLogin": "2024-11-20T08:15:00+05:30",
+      "deviceInfo": "Android 13 · Samsung Galaxy A54"
+    },
+
+    "createdAt": "2024-04-01T09:00:00+05:30",
+    "updatedAt": "2024-11-01T10:00:00+05:30"
+  },
+
+  {
+    "studentId": "STU002",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "admissionNumber": "SVM-2019-0422",
+      "rollNumber": "02",
+      "srNumber": "SR-7822",
+      "uid": "UID_STU002",
+      "phone": "+91-9876511002",
+      "parentPhone": "+91-9876500201",
+      "aadharLast4": "5519"
+    },
+
+    "personal": {
+      "fullName": "Priya Sharma",
+      "firstName": "Priya",
+      "lastName": "Sharma",
+      "fatherName": "Mr. Ramesh Chandra Sharma",
+      "motherName": "Mrs. Sunita Sharma",
+      "dob": "2008-07-22",
+      "age": 16,
+      "gender": "Female",
+      "bloodGroup": "O+",
+      "category": "OBC",
+      "religion": "Hindu",
+      "nationality": "Indian",
+      "motherTongue": "Hindi",
+      "photoUrl": "assets/mock/students/stu002.png"
+    },
+
+    "academic": {
+      "classId": "CLS_10A",
+      "className": "Class 10",
+      "section": "A",
+      "rollNumber": "02",
+      "admissionNumber": "SVM-2019-0422",
+      "srNumber": "SR-7822",
+      "admissionDate": "2019-04-01",
+      "academicYear": "2024-25",
+      "board": "CBSE",
+      "stream": null,
+      "previousSchool": "Kendriya Vidyalaya No.1, Lucknow",
+      "previousClass": "Class 9",
+      "previousPercentage": 92.6,
+      "houseGroup": "Shakti House"
+    },
+
+    "contact": {
+      "address": {
+        "line1": "C-56, Gomti Nagar",
+        "line2": "Sector 1, Near Eldeco",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226010"
+      },
+      "phone": "+91-9876511002",
+      "email": "priya.sharma16@gmail.com",
+      "emergencyContact": {
+        "name": "Mrs. Sunita Sharma",
+        "relation": "Mother",
+        "phone": "+91-9876500202"
+      }
+    },
+
+    "parents": [
+      {
+        "parentId": "PAR003",
+        "relation": "Father",
+        "name": "Mr. Ramesh Chandra Sharma",
+        "phone": "+91-9876500201",
+        "email": "ramesh.sharma@yahoo.com",
+        "occupation": "Private Job",
+        "qualification": "M.Com.",
+        "annualIncome": 650000,
+        "isAppUser": true
+      },
+      {
+        "parentId": "PAR004",
+        "relation": "Mother",
+        "name": "Mrs. Sunita Sharma",
+        "phone": "+91-9876500202",
+        "email": "sunita.sharma@gmail.com",
+        "occupation": "Teacher",
+        "qualification": "B.Ed.",
+        "annualIncome": 420000,
+        "isAppUser": false
+      }
+    ],
+
+    "transport": {
+      "usesTransport": false,
+      "busRouteNumber": null,
+      "busStopName": null,
+      "pickupTime": null,
+      "dropTime": null,
+      "driverName": null,
+      "driverPhone": null
+    },
+
+    "health": {
+      "height_cm": 155,
+      "weight_kg": 46,
+      "eyeSight": "Spectacles (-1.5)",
+      "allergies": [],
+      "medicalConditions": ["Mild Asthma"],
+      "doctorName": "Dr. P.K. Sinha",
+      "doctorPhone": "+91-9876533210"
+    },
+
+    "fees": {
+      "feeCategory": "OBC",
+      "concession": true,
+      "concessionType": "OBC State Concession - 10%",
+      "scholarshipApplied": true
+    },
+
+    "appAccess": {
+      "uid": "UID_STU002",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_STU002",
+      "lastLogin": "2024-11-20T07:55:00+05:30",
+      "deviceInfo": "Android 14 · Redmi Note 12"
+    },
+
+    "createdAt": "2024-04-01T09:00:00+05:30",
+    "updatedAt": "2024-11-01T10:00:00+05:30"
+  },
+
+  {
+    "studentId": "STU003",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "admissionNumber": "SVM-2021-0731",
+      "rollNumber": "03",
+      "srNumber": "SR-7823",
+      "uid": "UID_STU003",
+      "phone": "+91-9876511003",
+      "parentPhone": "+91-9876500301",
+      "aadharLast4": "7734"
+    },
+
+    "personal": {
+      "fullName": "Mohammed Aryan Khan",
+      "firstName": "Mohammed Aryan",
+      "lastName": "Khan",
+      "fatherName": "Mr. Salim Khan",
+      "motherName": "Mrs. Nazreen Khan",
+      "dob": "2008-11-05",
+      "age": 15,
+      "gender": "Male",
+      "bloodGroup": "A+",
+      "category": "OBC",
+      "religion": "Islam",
+      "nationality": "Indian",
+      "motherTongue": "Urdu",
+      "photoUrl": "assets/mock/students/stu003.png"
+    },
+
+    "academic": {
+      "classId": "CLS_10A",
+      "className": "Class 10",
+      "section": "A",
+      "rollNumber": "03",
+      "admissionNumber": "SVM-2021-0731",
+      "srNumber": "SR-7823",
+      "admissionDate": "2021-07-15",
+      "academicYear": "2024-25",
+      "board": "CBSE",
+      "stream": null,
+      "previousSchool": "City Montessori School, Lucknow",
+      "previousClass": "Class 7",
+      "previousPercentage": 77.2,
+      "houseGroup": "Vijay House"
+    },
+
+    "contact": {
+      "address": {
+        "line1": "42/7, Aminabad Market Road",
+        "line2": "Near Ghanta Ghar",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226018"
+      },
+      "phone": "+91-9876511003",
+      "email": null,
+      "emergencyContact": {
+        "name": "Mr. Salim Khan",
+        "relation": "Father",
+        "phone": "+91-9876500301"
+      }
+    },
+
+    "parents": [
+      {
+        "parentId": "PAR005",
+        "relation": "Father",
+        "name": "Mr. Salim Khan",
+        "phone": "+91-9876500301",
+        "email": "salimkhan.lko@gmail.com",
+        "occupation": "Business",
+        "qualification": "Intermediate",
+        "annualIncome": 540000,
+        "isAppUser": true
+      }
+    ],
+
+    "transport": {
+      "usesTransport": true,
+      "busRouteNumber": "Route-3",
+      "busStopName": "Aminabad Chowk",
+      "pickupTime": "07:10",
+      "dropTime": "14:05",
+      "driverName": "Suresh Kumar",
+      "driverPhone": "+91-9977665544"
+    },
+
+    "health": {
+      "height_cm": 168,
+      "weight_kg": 58,
+      "eyeSight": "Normal",
+      "allergies": ["Peanuts"],
+      "medicalConditions": [],
+      "doctorName": null,
+      "doctorPhone": null
+    },
+
+    "fees": {
+      "feeCategory": "OBC",
+      "concession": false,
+      "concessionType": null,
+      "scholarshipApplied": false
+    },
+
+    "appAccess": {
+      "uid": "UID_STU003",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_STU003",
+      "lastLogin": "2024-11-19T19:30:00+05:30",
+      "deviceInfo": "Android 12 · Vivo Y22"
+    },
+
+    "createdAt": "2021-07-15T09:00:00+05:30",
+    "updatedAt": "2024-11-01T10:00:00+05:30"
+  },
+
+  {
+    "studentId": "STU004",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "admissionNumber": "SVM-2019-0424",
+      "rollNumber": "04",
+      "srNumber": "SR-7824",
+      "uid": "UID_STU004",
+      "phone": "+91-9876511004",
+      "parentPhone": "+91-9876500401",
+      "aadharLast4": "2291"
+    },
+
+    "personal": {
+      "fullName": "Ananya Gupta",
+      "firstName": "Ananya",
+      "lastName": "Gupta",
+      "fatherName": "Mr. Suresh Kumar Gupta",
+      "motherName": "Mrs. Rekha Gupta",
+      "dob": "2008-01-30",
+      "age": 16,
+      "gender": "Female",
+      "bloodGroup": "AB+",
+      "category": "General",
+      "religion": "Hindu",
+      "nationality": "Indian",
+      "motherTongue": "Hindi",
+      "photoUrl": "assets/mock/students/stu004.png"
+    },
+
+    "academic": {
+      "classId": "CLS_10A",
+      "className": "Class 10",
+      "section": "A",
+      "rollNumber": "04",
+      "admissionNumber": "SVM-2019-0424",
+      "srNumber": "SR-7824",
+      "admissionDate": "2019-04-01",
+      "academicYear": "2024-25",
+      "board": "CBSE",
+      "stream": null,
+      "previousSchool": "St. Francis College, Lucknow",
+      "previousClass": "Class 9",
+      "previousPercentage": 95.8,
+      "houseGroup": "Shakti House"
+    },
+
+    "contact": {
+      "address": {
+        "line1": "House No. 12, Aliganj",
+        "line2": "Sector C, Behind Post Office",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226024"
+      },
+      "phone": "+91-9876511004",
+      "email": "ananya.gupta08@gmail.com",
+      "emergencyContact": {
+        "name": "Mr. Suresh Kumar Gupta",
+        "relation": "Father",
+        "phone": "+91-9876500401"
+      }
+    },
+
+    "parents": [
+      {
+        "parentId": "PAR007",
+        "relation": "Father",
+        "name": "Mr. Suresh Kumar Gupta",
+        "phone": "+91-9876500401",
+        "email": "sureshgupta@gmail.com",
+        "occupation": "CA (Chartered Accountant)",
+        "qualification": "CA, B.Com",
+        "annualIncome": 1800000,
+        "isAppUser": true
+      },
+      {
+        "parentId": "PAR008",
+        "relation": "Mother",
+        "name": "Mrs. Rekha Gupta",
+        "phone": "+91-9876500402",
+        "email": "rekha.gupta@gmail.com",
+        "occupation": "Homemaker",
+        "qualification": "M.A.",
+        "annualIncome": 0,
+        "isAppUser": true
+      }
+    ],
+
+    "transport": {
+      "usesTransport": false,
+      "busRouteNumber": null,
+      "busStopName": null,
+      "pickupTime": null,
+      "dropTime": null,
+      "driverName": null,
+      "driverPhone": null
+    },
+
+    "health": {
+      "height_cm": 158,
+      "weight_kg": 48,
+      "eyeSight": "Normal",
+      "allergies": [],
+      "medicalConditions": [],
+      "doctorName": null,
+      "doctorPhone": null
+    },
+
+    "fees": {
+      "feeCategory": "General",
+      "concession": false,
+      "concessionType": null,
+      "scholarshipApplied": true
+    },
+
+    "appAccess": {
+      "uid": "UID_STU004",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_STU004",
+      "lastLogin": "2024-11-20T06:45:00+05:30",
+      "deviceInfo": "iOS 17 · iPhone 13"
+    },
+
+    "createdAt": "2024-04-01T09:00:00+05:30",
+    "updatedAt": "2024-11-01T10:00:00+05:30"
+  },
+
+  {
+    "studentId": "STU005",
+    "schoolId": "SCH001",
+
+    "_queryKeys": {
+      "admissionNumber": "SVM-2020-0561",
+      "rollNumber": "05",
+      "srNumber": "SR-7825",
+      "uid": "UID_STU005",
+      "phone": "+91-9876511005",
+      "parentPhone": "+91-9876500501",
+      "aadharLast4": "9103"
+    },
+
+    "personal": {
+      "fullName": "Rohit Kumar Yadav",
+      "firstName": "Rohit",
+      "lastName": "Yadav",
+      "fatherName": "Mr. Dinesh Kumar Yadav",
+      "motherName": "Mrs. Poonam Yadav",
+      "dob": "2008-09-12",
+      "age": 16,
+      "gender": "Male",
+      "bloodGroup": "O-",
+      "category": "OBC",
+      "religion": "Hindu",
+      "nationality": "Indian",
+      "motherTongue": "Hindi",
+      "photoUrl": "assets/mock/students/stu005.png"
+    },
+
+    "academic": {
+      "classId": "CLS_10A",
+      "className": "Class 10",
+      "section": "A",
+      "rollNumber": "05",
+      "admissionNumber": "SVM-2020-0561",
+      "srNumber": "SR-7825",
+      "admissionDate": "2020-04-01",
+      "academicYear": "2024-25",
+      "board": "CBSE",
+      "stream": null,
+      "previousSchool": "SVM Lucknow",
+      "previousClass": "Class 9",
+      "previousPercentage": 68.4,
+      "houseGroup": "Bharat House"
+    },
+
+    "contact": {
+      "address": {
+        "line1": "Village Gosainganj",
+        "line2": "Post - Gosainganj",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226501"
+      },
+      "phone": "+91-9876511005",
+      "email": null,
+      "emergencyContact": {
+        "name": "Mr. Dinesh Kumar Yadav",
+        "relation": "Father",
+        "phone": "+91-9876500501"
+      }
+    },
+
+    "parents": [
+      {
+        "parentId": "PAR009",
+        "relation": "Father",
+        "name": "Mr. Dinesh Kumar Yadav",
+        "phone": "+91-9876500501",
+        "email": null,
+        "occupation": "Farmer",
+        "qualification": "High School",
+        "annualIncome": 240000,
+        "isAppUser": true
+      }
+    ],
+
+    "transport": {
+      "usesTransport": true,
+      "busRouteNumber": "Route-11",
+      "busStopName": "Gosainganj Tiraha",
+      "pickupTime": "06:50",
+      "dropTime": "14:25",
+      "driverName": "Munna Lal",
+      "driverPhone": "+91-9988001122"
+    },
+
+    "health": {
+      "height_cm": 170,
+      "weight_kg": 63,
+      "eyeSight": "Normal",
+      "allergies": [],
+      "medicalConditions": [],
+      "doctorName": null,
+      "doctorPhone": null
+    },
+
+    "fees": {
+      "feeCategory": "OBC",
+      "concession": true,
+      "concessionType": "Below Poverty Line - 25%",
+      "scholarshipApplied": true
+    },
+
+    "appAccess": {
+      "uid": "UID_STU005",
+      "isActive": true,
+      "fcmToken": "MOCK_FCM_TOKEN_STU005",
+      "lastLogin": "2024-11-18T21:00:00+05:30",
+      "deviceInfo": "Android 11 · Jio Phone Next"
+    },
+
+    "createdAt": "2020-04-01T09:00:00+05:30",
+    "updatedAt": "2024-11-01T10:00:00+05:30"
+  }
+]

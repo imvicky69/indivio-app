@@ -1,0 +1,184 @@
+{
+  "attendanceSummary": {
+    "schoolId": "SCH001",
+    "classId": "CLS_10A",
+    "month": "November",
+    "year": 2024,
+    "totalWorkingDays": 22,
+    "holidays": [
+      { "date": "2024-11-15", "name": "Guru Nanak Jayanti" }
+    ]
+  },
+  "dailyRecords": [
+    {
+      "date": "2024-11-01",
+      "dayName": "Friday",
+      "markedBy": "TCH001",
+      "markedAt": "2024-11-01T07:45:00+05:30",
+      "presentCount": 39,
+      "absentCount": 3,
+      "lateCount": 0,
+      "leaveCount": 0,
+      "students": [
+        { "studentId": "STU001", "status": "P", "remarks": null },
+        { "studentId": "STU002", "status": "P", "remarks": null },
+        { "studentId": "STU003", "status": "A", "remarks": "Not informed" },
+        { "studentId": "STU004", "status": "P", "remarks": null },
+        { "studentId": "STU005", "status": "P", "remarks": null }
+      ]
+    },
+    {
+      "date": "2024-11-02",
+      "dayName": "Saturday",
+      "markedBy": "TCH001",
+      "markedAt": "2024-11-02T07:48:00+05:30",
+      "presentCount": 40,
+      "absentCount": 2,
+      "lateCount": 0,
+      "leaveCount": 0,
+      "students": [
+        { "studentId": "STU001", "status": "P", "remarks": null },
+        { "studentId": "STU002", "status": "P", "remarks": null },
+        { "studentId": "STU003", "status": "P", "remarks": null },
+        { "studentId": "STU004", "status": "P", "remarks": null },
+        { "studentId": "STU005", "status": "A", "remarks": null }
+      ]
+    },
+    {
+      "date": "2024-11-04",
+      "dayName": "Monday",
+      "markedBy": "TCH001",
+      "markedAt": "2024-11-04T07:50:00+05:30",
+      "presentCount": 38,
+      "absentCount": 2,
+      "lateCount": 2,
+      "leaveCount": 0,
+      "students": [
+        { "studentId": "STU001", "status": "Late", "remarks": "Bus delay" },
+        { "studentId": "STU002", "status": "P", "remarks": null },
+        { "studentId": "STU003", "status": "P", "remarks": null },
+        { "studentId": "STU004", "status": "P", "remarks": null },
+        { "studentId": "STU005", "status": "P", "remarks": null }
+      ]
+    },
+    {
+      "date": "2024-11-05",
+      "dayName": "Tuesday",
+      "markedBy": "TCH001",
+      "markedAt": "2024-11-05T07:42:00+05:30",
+      "presentCount": 41,
+      "absentCount": 1,
+      "lateCount": 0,
+      "leaveCount": 0,
+      "students": [
+        { "studentId": "STU001", "status": "P", "remarks": null },
+        { "studentId": "STU002", "status": "P", "remarks": null },
+        { "studentId": "STU003", "status": "P", "remarks": null },
+        { "studentId": "STU004", "status": "P", "remarks": null },
+        { "studentId": "STU005", "status": "P", "remarks": null }
+      ]
+    },
+    {
+      "date": "2024-11-06",
+      "dayName": "Wednesday",
+      "markedBy": "TCH001",
+      "markedAt": "2024-11-06T07:46:00+05:30",
+      "presentCount": 40,
+      "absentCount": 1,
+      "lateCount": 0,
+      "leaveCount": 1,
+      "students": [
+        { "studentId": "STU001", "status": "P", "remarks": null },
+        { "studentId": "STU002", "status": "L", "remarks": "Medical leave - approved" },
+        { "studentId": "STU003", "status": "P", "remarks": null },
+        { "studentId": "STU004", "status": "P", "remarks": null },
+        { "studentId": "STU005", "status": "P", "remarks": null }
+      ]
+    },
+    {
+      "date": "2024-11-15",
+      "dayName": "Friday",
+      "isHoliday": true,
+      "holidayName": "Guru Nanak Jayanti",
+      "students": []
+    },
+    {
+      "date": "2024-11-18",
+      "dayName": "Monday",
+      "markedBy": "TCH001",
+      "markedAt": "2024-11-18T07:44:00+05:30",
+      "presentCount": 42,
+      "absentCount": 0,
+      "lateCount": 0,
+      "leaveCount": 0,
+      "students": [
+        { "studentId": "STU001", "status": "P", "remarks": null },
+        { "studentId": "STU002", "status": "P", "remarks": null },
+        { "studentId": "STU003", "status": "P", "remarks": null },
+        { "studentId": "STU004", "status": "P", "remarks": null },
+        { "studentId": "STU005", "status": "P", "remarks": null }
+      ]
+    },
+    {
+      "date": "2024-11-19",
+      "dayName": "Tuesday",
+      "markedBy": "TCH001",
+      "markedAt": "2024-11-19T07:49:00+05:30",
+      "presentCount": 39,
+      "absentCount": 2,
+      "lateCount": 0,
+      "leaveCount": 1,
+      "students": [
+        { "studentId": "STU001", "status": "P", "remarks": null },
+        { "studentId": "STU002", "status": "P", "remarks": null },
+        { "studentId": "STU003", "status": "A", "remarks": null },
+        { "studentId": "STU004", "status": "P", "remarks": null },
+        { "studentId": "STU005", "status": "L", "remarks": "Family function - leave approved" }
+      ]
+    },
+    {
+      "date": "2024-11-20",
+      "dayName": "Wednesday",
+      "markedBy": "TCH001",
+      "markedAt": "2024-11-20T07:47:00+05:30",
+      "presentCount": 41,
+      "absentCount": 1,
+      "lateCount": 0,
+      "leaveCount": 0,
+      "students": [
+        { "studentId": "STU001", "status": "P", "remarks": null },
+        { "studentId": "STU002", "status": "P", "remarks": null },
+        { "studentId": "STU003", "status": "P", "remarks": null },
+        { "studentId": "STU004", "status": "P", "remarks": null },
+        { "studentId": "STU005", "status": "P", "remarks": null }
+      ]
+    }
+  ],
+  "studentMonthlySummary": [
+    {
+      "studentId": "STU001", "name": "Aarav Singh Rajput",
+      "present": 19, "absent": 0, "late": 1, "leave": 0,
+      "totalWorkingDays": 20, "attendancePercent": 95.0
+    },
+    {
+      "studentId": "STU002", "name": "Priya Sharma",
+      "present": 18, "absent": 0, "late": 0, "leave": 1,
+      "totalWorkingDays": 19, "attendancePercent": 94.7
+    },
+    {
+      "studentId": "STU003", "name": "Mohammed Aryan Khan",
+      "present": 16, "absent": 3, "late": 0, "leave": 0,
+      "totalWorkingDays": 19, "attendancePercent": 84.2
+    },
+    {
+      "studentId": "STU004", "name": "Ananya Gupta",
+      "present": 20, "absent": 0, "late": 0, "leave": 0,
+      "totalWorkingDays": 20, "attendancePercent": 100.0
+    },
+    {
+      "studentId": "STU005", "name": "Rohit Kumar Yadav",
+      "present": 17, "absent": 1, "late": 0, "leave": 1,
+      "totalWorkingDays": 19, "attendancePercent": 89.5
+    }
+  ]
+}
